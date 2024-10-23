@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/mdar/__init__.py
+src/mdar/__main__.py
+src/mdar/app.py
+src/mdar.egg-info/PKG-INFO
+src/mdar.egg-info/SOURCES.txt
+src/mdar.egg-info/dependency_links.txt
+src/mdar.egg-info/requires.txt
+src/mdar.egg-info/top_level.txt
